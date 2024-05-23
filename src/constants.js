@@ -1,1 +1,1 @@
-export const DB_NAME = "bags-shop";
+export const DB_NAME = "products-store";

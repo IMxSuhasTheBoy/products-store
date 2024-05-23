@@ -27,5 +27,5 @@ app.use("/users", usersRouter);
 app.use("/products", productsRouter);
 
 app.listen(PORT, () => {
-  console.log(`listening on port ${PORT}`);
+  console.log(`products-store listening on port ${PORT}`);
 });

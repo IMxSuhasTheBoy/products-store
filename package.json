@@ -1,7 +1,7 @@
 {
-  "name": "bags-shop",
+  "name": "products-store",
   "version": "1.0.0",
-  "description": "bags shop node express server web app",
+  "description": "products-store node express server web app",
   "main": "index.js",
   "type": "module",
   "scripts": {
